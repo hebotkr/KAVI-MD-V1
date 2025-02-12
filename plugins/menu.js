@@ -77,9 +77,9 @@ cmd(
 ❮❮ *CONVERT COMMANDS* ❯❯
 
     ${menu.convert}
-❮❮ *SEARCH COMMANDS* ❯❯
+❮❮ *AI COMMANDS* ❯❯
 
-    ${menu.search}
+    .ai
 
 
 𝐌𝐚𝐝𝐞 𝐛𝐲 *𝐊𝐀𝐕𝐈𝐃𝐔 𝐑𝐀𝐒𝐀𝐍𝐆𝐀*  🎗️
