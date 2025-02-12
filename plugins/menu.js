@@ -87,12 +87,12 @@ cmd(
 > KAVI-MD MENU MSG 🍀
 `;
       await robin.sendPresenceUpdate('recording', from);
-      await robin.sendMessage(from, { audio: { url: "https://github.com/kaviduRs/MD-HELP/raw/refs/heads/main/voice/MSLAVA%20FUNK!%20(1).mp3" }, mimetype: 'audio/mpeg', ptt: true }, { quoted: mek });
+      await robin.sendMessage(from, { audio: { url: "https://github.com/hebotkr/KAVI-MD-/raw/refs/heads/main/ASLAVA%20FUNK!%20(1).mp3" }, mimetype: 'audio/mpeg', ptt: true }, { quoted: mek });
       await robin.sendMessage(
         from,
         {
           image: {
-            url: "https://github.com/kaviduRs/MD-HELP/raw/refs/heads/main/img/b1e19851-f5ec-49fe-8d32-d45fbf654021.webp",
+            url: "https://github.com/hebotkr/KAVI-MD-/blob/main/IMG-20250205-WA0002.jpg",
           },
           caption: madeMenu,
         },
