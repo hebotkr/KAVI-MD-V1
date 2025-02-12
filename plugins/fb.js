@@ -72,7 +72,7 @@ cmd(
         from,
         {
           image: {
-            url: "https://raw.githubusercontent.com/kaviduRs/MD-HELP/refs/heads/main/img/_25-02-07_18-08-09-933.jpg",
+            url: "https://github.com/hebotkr/KAVI-MD-/blob/main/IMG-20250205-WA0002.jpg",
           },
           caption: desc,
         },
