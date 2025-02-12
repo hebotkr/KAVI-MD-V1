@@ -38,7 +38,9 @@ cmd({
         const searchResults = movieData.slice(0, 10);
 
         // Format and send the search results message
-        let resultsMessage = `📽️ *DARKBOT SEARCH REASULT➜ * "${q}":\n\n`;
+        let resultsMessage = `💛 *DARKBOT SEARCH REASULT➜* 💛
+                             
+                             "${q}":\n\n`;
         searchResults.forEach((result, index) => {
             const title = result.title || 'No title available';
             const link = result.link || 'No link available';
