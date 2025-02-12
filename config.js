@@ -17,3 +17,4 @@ module.exports = {
   AUTO_STICKER: process.env.AUTO_STICKER || "false",
   AUTO_REPLY: process.env.AUTO_REPLY || "true",
 };
+//=
