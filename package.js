@@ -9,7 +9,7 @@
     "restart": "pm2 restart 'KAVI-MD'"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.9",
+    "@whiskeysockets/baileys": "^6.7.12",
     "pino": "^9.6.0",
     "pm2": "^5.4.3",
     "util": "^0.12.5",
