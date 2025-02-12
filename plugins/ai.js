@@ -1,13 +1,13 @@
 //---- *REPLACE WITH YOUR API KEY* 🤌
 
-
+const {cmd , commands} = require('../command')
 const axios = require("axios")
 
 const GEMINI_API_KEY = "AIzaSyAbJ13Z_LacATtnDXrlVDn79BwGNLa4Hqk";  //REPLACE WITH YOUR API KEY OF GEMINI
 const GEMINI_API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GEMINI_API_KEY}`;
 
 cmd({
-  pattern: "gemini",
+  pattern: "ai",
   react: '🤖',
   desc: "Ask anything to Google Gemini AI.",
   category: "ai",
