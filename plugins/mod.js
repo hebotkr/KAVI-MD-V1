@@ -33,6 +33,6 @@ const $ = cheerio.load(response.data);
     console.error('Error fetching search results:', error);
     return [];
   }
-}
+})
 
 module.exports = { modwhatsapp }
