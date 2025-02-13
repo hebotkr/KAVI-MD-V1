@@ -62,24 +62,24 @@ cmd(
 
 ❮❮ *MAIN COMMANDS* ❯❯
 
-   ${menu.main}
-   .owner
+${menu.main}
+.owner
 ❮❮ *DOWNLOAD COMMANDS* ❯❯
 
-    ${menu.download}    
+${menu.download}    
 ❮❮ *GROUP COMMANDS* ❯❯
 
-    ${menu.group}
+${menu.group}
 ❮❮ *OWNER COMMANDS* ❯❯
 
-    .restart
-    .update
+.restart
+.update
 ❮❮ *CONVERT COMMANDS* ❯❯
 
-    ${menu.convert}
+${menu.convert}
 ❮❮ *AI COMMANDS* ❯❯
 
-    .ai
+.ai
 
 
 𝐌𝐚𝐝𝐞 𝐛𝐲 *𝐊𝐀𝐕𝐈𝐃𝐔 𝐑𝐀𝐒𝐀𝐍𝐆𝐀*  🎗️
@@ -92,7 +92,7 @@ cmd(
         from,
         {
           image: {
-            url: "https://github.com/hebotkr/HELP/blob/main/photo/IMG-20250205-WA0002.jpg",
+            url: "https://i.postimg.cc/CMN1L03G/IMG-20250205-WA0002-3.jpg",
           },
           caption: madeMenu,
         },
