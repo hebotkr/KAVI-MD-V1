@@ -96,13 +96,13 @@ async function connectToWA() {
 
       robin.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
-          url: `https://github.com/hebotkr/HELP/blob/main/photo/IMG-20250205-WA0002.jpg`,
+          url: `https://i.postimg.cc/J7x6V20b/IMG-20250205-WA0002-2.jpg`,
         },
         caption: up,
       });
       robin.sendMessage("94762858448@s.whatsapp.net", {
         image: {
-          url: `https://github.com/hebotkr/HELP/blob/main/photo/IMG-20250205-WA0002.jpg`,
+          url: `https://i.postimg.cc/J7x6V20b/IMG-20250205-WA0002-2.jpg`,
         },
         caption: up1,
       });
