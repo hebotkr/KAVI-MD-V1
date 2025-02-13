@@ -118,7 +118,7 @@ cmd({
     desc: "cinesubz moive downloader",
     filename: __filename
 },
-async (conn, m, mek, { from, q, isDev, l, reply }) => {
+async (conn, m, mek, { from, q, l, reply }) => {
 try{
       if(!q) return await reply('*please give me text !..*')
 	var link = `https://cinesubz.co/?s=${q}`
@@ -166,9 +166,9 @@ cmd({
     desc: "cinesubz moive downloader",
     filename: __filename
 },
-async (conn, m, mek, { from, q, isDev, l, reply }) => {
+async (conn, m, mek, { from, q, l, reply }) => {
 try{
-	if ( !isDev ) return reply('⚠️ ⚠️ *Contact owner to Active your number To Premium user*')
+	
         if(!q) return await reply('*please give me text !..*')
 	const url = `https://cineru.lk/?s=${q}`
         const response = await axios.get(url);
@@ -209,7 +209,7 @@ cmd({
     desc: "cine moive downloader",
     filename: __filename
 },
-async (conn, m, mek, { from, q, isDev, reply }) => {
+async (conn, m, mek, { from, q, reply }) => {
 try{
      if(!q) return await reply('*please give me text !..*')
 		var link = `https://cinesubz.co/?s=${q}`
