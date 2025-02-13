@@ -1,7 +1,7 @@
 const config = require('../config')
 const axios = require('axios')
 const cheerio = require('cheerio')
-
+const {cmd , commands} = require('../command')
 cmd({
     pattern: "mod",
     react: "🙁",
