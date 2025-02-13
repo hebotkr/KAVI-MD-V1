@@ -30,6 +30,8 @@
     "@vreden/youtube_scraper": "^1.2.5",
     "wa-sticker-formatter": "^4.4.4",
     "cheerio": "^1.0.0",
-    "os": "^0.1.2"
+    "os": "^0.1.2",
+    "mrnima-moviedl": "latest",
+    "mime-types": "latest"
   }
 }
